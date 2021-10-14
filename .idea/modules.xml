@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-bigdata.iml" filepath="$PROJECT_DIR$/learn-bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_flink/learn_flink.iml" filepath="$PROJECT_DIR$/learn_flink/learn_flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_java/learn_java.iml" filepath="$PROJECT_DIR$/learn_java/learn_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_spark/learn_spark.iml" filepath="$PROJECT_DIR$/learn_spark/learn_spark.iml" />
+    </modules>
+  </component>
+</project>
